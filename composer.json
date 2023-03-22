@@ -1,0 +1,17 @@
+{
+    "name": "algebra/bedev2022",
+    "description": "MVC project",
+    "autoload": {
+        "psr-4": {
+            "Core\\": "libs/",
+            "UvodUPHP\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ivan Mandic",
+            "email": "ivan.mandic@predavaci.algebra.hr"
+        }
+    ],
+    "require": {}
+}
